@@ -1,14 +1,15 @@
 {
+  "primaryFile": "preview.html",
+  "lockPrimaryFile": true,
   "generated": {
     "comment": "Objects in the 'generated' property automatically get generated (user-made changes will be written over).",
     "tabs": [
       "index.html",
       "script.js",
       "style.css",
-      "preview.html"
+      "preview.html",
+      ".srcr.json"
     ],
-    "activeTab": "index.html",
-    "primaryFile": "preview.html",
-    "lockPrimaryFile": true
+    "activeTab": "index.html"
   }
 }
