@@ -1,12 +1,14 @@
 {
   "generated": {
-    "comment": "Objects in the \"generated\" property automatically get generated (user-made changes will be written over).",
+    "comment": "Objects in the 'generated' property automatically get generated (user-made changes will be written over).",
     "tabs": [
       "index.html",
       "script.js",
-      "style.css"
+      "style.css",
+      "preview.html"
     ],
-    "activeTab": ".srcr.json",
-    "primaryFile": "index.html"
+    "activeTab": "index.html",
+    "primaryFile": "preview.html",
+    "lockPrimaryFile": true
   }
 }
