@@ -1,6 +1,10 @@
 {
   "primaryFile": "preview.html",
   "lockPrimaryFile": true,
+  "publishGitHubRepositoryUrl": {
+    "name": "zip",
+    "url": "https://codeload.github.com/${owner}/${repo}/legacy.zip/${branch}"
+  },
   "generated": {
     "comment": "Objects in the 'generated' property automatically get generated (user-made changes will be written over).",
     "tabs": [
@@ -10,6 +14,6 @@
       "preview.html",
       ".srcr.json"
     ],
-    "activeTab": "index.html"
+    "activeTab": ".srcr.json"
   }
 }
